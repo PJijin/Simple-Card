@@ -61,6 +61,8 @@ b.
 ```
 
 
+Stylish Card Repo: https://github.com/PJijin/Stylish-Card
+
 ## Bugs, Update, License
 
 - Feel free to report bugs to jijin@devzstudio.com 🐞
